@@ -2,7 +2,7 @@
 
 #include<fstream>
 #include<iostream>
-
+#include<cstring>
 using namespace std;
 int main(int argc, char * args[]){
     ifstream fin;
